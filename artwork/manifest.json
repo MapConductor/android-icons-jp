@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "jp",
+  "collection": "JapanMapIcons",
+  "android": {
+    "repository": "android-icons-jp",
+    "namespace": "com.mapconductor.icons.jp"
+  },
+  "ios": {
+    "repository": "ios-icons-jp",
+    "module": "MapConductorIconsJP"
+  },
+  "react": {
+    "repository": "react-icons-jp"
+  },
+  "icons": [
+    { "name": "postOffice", "id": "jp.post_office", "file": "post_office.svg", "description": "Japanese post office" },
+    { "name": "policeBox", "id": "jp.police_box", "file": "police_box.svg", "description": "Japanese police box or koban" },
+    { "name": "shrine", "id": "jp.shrine", "file": "shrine.svg", "description": "Shinto shrine" }
+  ]
+}
